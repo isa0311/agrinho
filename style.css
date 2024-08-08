@@ -32,12 +32,12 @@ body{.poppins-regular {
 }
 
 .escola{
-    background-image: linear-gradient(#f87846,#f7c48b);
+    background-image: linear-gradient(#b2e087,#f7c48b);
     color:white;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 200px 0;
 }
 
 .escola-div-conteudo{
@@ -46,13 +46,9 @@ body{.poppins-regular {
 .escola-titulo{
     padding: 24px 0;
 }
-.estudante-imagem{
+.cidade{
 
-    width: 120px;
-}
-.estudante-icone{
-    width: 24px;
-
+    width: 40px;
 }
 .estudante-div{ 
     text-align: center;
